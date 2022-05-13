@@ -1,4 +1,4 @@
-export 'package:device_frame/device_frame.dart';
+export 'package:widgetbook_device_frame/widgetbook_device_frame.dart';
 
 export 'src/device_preview.dart';
 

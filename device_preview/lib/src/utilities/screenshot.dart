@@ -1,7 +1,7 @@
 import 'dart:typed_data';
 import 'dart:ui' as ui;
 
-import 'package:device_frame/device_frame.dart';
+import 'package:widgetbook_device_frame/widgetbook_device_frame.dart';
 
 /// A screenshot from a preview.
 class DeviceScreenshot {

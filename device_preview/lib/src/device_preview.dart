@@ -1,6 +1,6 @@
 import 'dart:async';
 
-import 'package:device_frame/device_frame.dart';
+import 'package:widgetbook_device_frame/widgetbook_device_frame.dart';
 import 'package:device_preview/src/state/state.dart';
 import 'package:device_preview/src/state/store.dart';
 import 'package:device_preview/src/storage/storage.dart';

@@ -1,7 +1,7 @@
 import 'dart:async';
 import 'dart:ui';
 
-import 'package:device_frame/device_frame.dart';
+import 'package:widgetbook_device_frame/widgetbook_device_frame.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/widgets.dart';
 
